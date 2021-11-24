@@ -29,6 +29,6 @@ function newItem(){
     }
     deleteButton.on('click', deleteListItem);
   
-    $('#list').sortable()s
+    $('#list').sortable();
   }
 
